@@ -1,3 +1,3 @@
 # hello-world
 Lab 1 - OPS435
-I am Shon. I like food. I like to eat food. Food is always good. 
+I am Sharoon Bernard - OPS435 Section D or C not sure. 
